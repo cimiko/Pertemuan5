@@ -1,11 +1,53 @@
+body {
+  background-color: whitesmoke;
+  margin: auto;
+  padding: auto;
+}
+
 .header {
   background-color: slategray;
   height: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
   position: relative;
 }
 
-.header1 {
+.headerlogo {
   position: absolute;
   margin-left: 25px;
   margin-top: 10px;
+}
+
+.headerlink {
+  float: right;
+  margin-top: 40px;
+  margin-right: 70px;
+}
+
+.headerlink a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.content {
+  position: relative;
+}
+
+.contentbaris {
+  align-items: center;
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  margin-top: -15px;
+  border-radius: 10px;
+}
+
+.contentisi {
+  font-size: 20px;
+text-align: center;
+margin-top: auto;
 }
