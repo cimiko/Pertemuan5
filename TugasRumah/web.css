@@ -1,0 +1,11 @@
+.header {
+  background-color: slategray;
+  height: 100px;
+  position: relative;
+}
+
+.header1 {
+  position: absolute;
+  margin-left: 25px;
+  margin-top: 10px;
+}
