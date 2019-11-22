@@ -1,0 +1,38 @@
+#header {
+  border: 2px solid black;
+}
+
+
+.header1 {
+  font-size: 40px; text-align: center;
+}
+
+.header2 {
+  color: white;
+  background-color: black;
+  height: 70px;
+  position: relative;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.isi {
+  position: absolute;
+}
+
+.isi p{
+  font-size: 20px;
+  margin-top: 25px;
+  float: left;
+}
+
+.header2 .link{
+  float: right;
+  margin-top: 5px;
+}
+
+.link a{
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+}
