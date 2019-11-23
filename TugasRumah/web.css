@@ -61,3 +61,17 @@ position: absolute;
 .contentisi p {
   margin-left: 161px;
 }
+
+.footer {
+  background-color: slategray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.footerisi {
+  text-align: center;
+  font-size: 20px;
+}
